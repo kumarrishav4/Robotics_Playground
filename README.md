@@ -155,9 +155,4 @@ MIT License © 2025 \[Your Name]
 
 ```
 
----
 
-If you want, I can also **enhance it with screenshots, GIFs of the GUI in action, and a diagram showing nodes + rotary/prismatic joints** to make it look really professional on GitHub.  
-
-Do you want me to do that next?
-```
