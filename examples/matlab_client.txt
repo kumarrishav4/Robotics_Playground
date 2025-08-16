@@ -1,0 +1,10 @@
+% matlab_client.m
+% simple MATLAB TCP client (R2020b+ has tcpclient)
+host = '127.0.0.1'; port = 20000;
+c = tcpclient(host, port);
+cmd = jsonencode(struct('cmd','get_state'));
+write(c, [cmd char(10)], 'char');
+% read a line
+resp = readline(c);
+disp(resp);
+clear c;
