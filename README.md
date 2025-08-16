@@ -147,12 +147,5 @@ These scripts demonstrate connecting to the simulator, adding nodes/links, and m
 
 ## License
 
-MIT License © 2025 \[Your Name]
-
----
-
-**Enjoy building and testing robotic linkages!**
-
-```
 
 
